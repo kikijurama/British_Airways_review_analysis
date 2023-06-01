@@ -26,4 +26,4 @@ __3. Data Analysis__
 __4. Conclusion__
 
 - Summarize the findings and insights obtained from the data analysis.
-- Create a concise and visually appealing PowerPoint slide that includes key visualizations, metrics, and clear explanations to highlight the main points derived from the analysis.
+- Create a concise and visually appealing key visualizations, metrics, and clear explanations to highlight the main points derived from the analysis.
